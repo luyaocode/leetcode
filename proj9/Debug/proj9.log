@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\codes\CPlusPlus\LeetCode\proj9\solution.h(11,21): warning C4018: “<”: 有符号/无符号不匹配
+  proj9.vcxproj -> D:\codes\CPlusPlus\LeetCode\Debug\proj9.exe
